@@ -1,0 +1,8 @@
+This application is extended from the final project of course CIS 581 Computer Vision in the University of Pennsylvania. This project is originally developed in Matlab but later it is ported to C/C++ (OpenCV).
+
+It may contain technology and source codes that are not legal for commerical use. Users are fully responsible for the legal issues when download, distribute and modify this project for commerical purpose.
+
+For non commerical uses, please credit the authors Fan Deng and Xiaochuan Qin (xqin@seas.upenn.edu) for the MATLAB source codes, and Xiaochuan Qin for the C/C++ codes. 
+
+The contact method of advisor Jianbo Shi can be found in the webpage of CIS department at UPenn if your are interested this course.
+
